@@ -1,0 +1,9 @@
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\bin\Debug\trabalhoAPI.exe.config
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\bin\Debug\trabalhoAPI.exe
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\bin\Debug\trabalhoAPI.pdb
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\obj\Debug\trabalhoAPI.csprojAssemblyReference.cache
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\obj\Debug\trabalhoAPI.csproj.CopyComplete
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\obj\Debug\trabalhoAPI.exe
+C:\Users\joao\Desktop\Trabalho CM\trabalhoAPI\trabalhoAPI\obj\Debug\trabalhoAPI.pdb
